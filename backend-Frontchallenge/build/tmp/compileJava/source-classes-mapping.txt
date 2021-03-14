@@ -1,0 +1,20 @@
+com/endava/backendFrontchallenge/service/UserService.java
+ com.endava.backendFrontchallenge.service.UserService
+com/endava/backendFrontchallenge/configuration/BackendFrontChallengeConfig.java
+ com.endava.backendFrontchallenge.configuration.BackendFrontChallengeConfig
+com/endava/backendFrontchallenge/model/Job.java
+ com.endava.backendFrontchallenge.model.Job
+com/endava/backendFrontchallenge/repository/UserRepository.java
+ com.endava.backendFrontchallenge.repository.UserRepository
+com/endava/backendFrontchallenge/controller/JobController.java
+ com.endava.backendFrontchallenge.controller.JobController
+com/endava/backendFrontchallenge/controller/UserController.java
+ com.endava.backendFrontchallenge.controller.UserController
+com/endava/backendFrontchallenge/model/User.java
+ com.endava.backendFrontchallenge.model.User
+com/endava/backendFrontchallenge/repository/JobRepository.java
+ com.endava.backendFrontchallenge.repository.JobRepository
+com/endava/backendFrontchallenge/BackendFrontchallengeApplication.java
+ com.endava.backendFrontchallenge.BackendFrontchallengeApplication
+com/endava/backendFrontchallenge/service/JobService.java
+ com.endava.backendFrontchallenge.service.JobService
